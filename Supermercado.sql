@@ -1,5 +1,3 @@
-PASSWORD RMSTitanic1912;
-SYSTEM CLS;
 /* I. Crea el siguiente esquema de base de datos llamado “El Supermercado” utilizando MySQL Line Command (Valor hasta 4 puntos). */
 
 CREATE DATABASE ELSUPERMERCADO;
